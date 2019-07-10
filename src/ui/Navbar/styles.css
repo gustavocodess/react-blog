@@ -1,0 +1,6 @@
+
+.nav-bar-justify-content-end {
+  justify-content: flex-end;
+  flex: 1;
+  padding-right: 100px;
+}

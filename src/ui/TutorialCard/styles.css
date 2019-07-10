@@ -1,0 +1,26 @@
+
+
+.tutorial-card-container {
+  border-radius: 4px;
+  padding: 16px;
+  width: 100%;
+  min-height: 10em;
+  max-height: 10em;
+  background-color: white;
+  box-shadow: 0 1px 15px 1px rgba(69, 65, 78, 0.08);
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+
+.tutorial-card-avatar {
+  width: 100%;
+  height: auto;
+  border-radius: 2px;
+}
+
+.tutorial-card-author-avatar {
+  width: 4em;
+  height: 4em;
+  border-radius: 50%;
+  box-shadow: 0 1px 15px 1px rgba(69, 65, 78, 0.08);
+}

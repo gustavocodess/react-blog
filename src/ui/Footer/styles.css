@@ -1,0 +1,31 @@
+
+
+.footer-container {
+  width: 100%;
+  height: 48px;
+  /* background-color: #333; */
+  /* background-color: #01AAE6; */
+  /* background-color: #a0ce4e; */
+  /* background-color: #0c6353; */
+  background-color: #3c9a4c;
+  padding: 16px;
+  display: flex;
+  flex-direction: row;
+  font-family: GloberRegular;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+.footer-container > p {
+  color: white;
+  text-align: center;
+  width: 100%;
+}
+
+.butter-cms-logo {
+  height: 30px;
+  width: auto;
+  margin-left: 16px;
+}

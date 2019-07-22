@@ -4,3 +4,8 @@
   flex: 1;
   padding-right: 100px;
 }
+
+.github-icon {
+  height: 56px;
+  max-width: 100%;
+}
